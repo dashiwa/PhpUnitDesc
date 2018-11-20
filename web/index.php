@@ -13,6 +13,7 @@ class SomeClass
     }
 }
 
+
 class StubTest extends TestCase
 {
     public function testStub()
